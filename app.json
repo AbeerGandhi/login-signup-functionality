@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "login_signup",
+    "slug": "snack-1dd8d71b-6bbc-476c-871c-72373fdc672c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "welcome screen\nlogin screen \nforgot password screen\nregister screen"
+  }
+}
